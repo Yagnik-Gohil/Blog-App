@@ -26,5 +26,5 @@ JWT_SECRET=this-is-my-super-secure-jwt-secret
 JWT_EXPIRES_IN=90d
 JWT_COOKIE_EXPIRES_IN=90
 ```
-④ once installation is complete, in /blog run `npm start`. move to /backend and run `nodemon server.js` to get your local copy running in the browser.
+④ once installation is complete, in /blog run `npm start`. move to /backend and run `nodemon server.ts` to get your local copy running in the browser.
 
