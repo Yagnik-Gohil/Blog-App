@@ -28,3 +28,4 @@ JWT_COOKIE_EXPIRES_IN=90
 ```
 ④ once installation is complete, in /blog run `npm start`. move to /backend and run `nodemon server.ts` to get your local copy running in the browser.
 
+![](https://visitor-badge.glitch.me/badge?page_id=Yagnik-Gohil.Blog-App)
